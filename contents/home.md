@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![HJJ-cell](https://img.shields.io/badge/Hjj--cell-github-blue?logo=github)](https://github.com/HJJ-cell)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Mechanical Engineering at the School of Mechanical Engineering, Jiangnan University.
 
 #### Email
-sli[at]cumt.edu.cn
+2755369214@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., mechanical engineering, Jiangnan Universit ,2024—2027 (expected).\
+B.E., Robotics Engineering, Jiangsu Ocean University, 2020—2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Model Predictive Control，Deep Learning, Artificial Intelligence.
 
