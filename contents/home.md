@@ -1,6 +1,6 @@
 
 
-[![HJJ-cell](https://img.shields.io/badge/JustinHou--HPC-github-blue?logo=github)](https://github.com/JustinHou-HPC)
+[![JustinHou-HPC](https://img.shields.io/badge/JustinHou--HPC-github-blue?logo=github)](https://github.com/JustinHou-HPC)
 
 He is currently pursuing a Master's Degree in Mechanical Engineering at the School of Mechanical Engineering, Jiangnan University.
 
